@@ -1,4 +1,4 @@
-## Hey there 👋 I'm Azer 👨🏻‍💻
+## Hey there 👋 I'm Kamil Huseynov 👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:musey2030@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-huseynov-8b2682201?locale=en_US "Connect on LinkedIn")

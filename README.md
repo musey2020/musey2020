@@ -1,7 +1,7 @@
 ## Hey there 👋 I'm Azer 👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-musey2030@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:musey2030@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-kamil-huseynov-8b2682201?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-huseynov-8b2682201?locale=en_US "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-huseynov-8b2682201?locale=en_US "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@HUSEYNOVK?style=flat&logo=Telegram&logoColor=white)](https://t.me/HUSEYNOVK "Contact on Telegram")
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0078FF?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/kamil.huseynov.10004 "Connect on Facebook")
 

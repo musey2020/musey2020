@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey there 👋 I'm Azer 👨🏻‍💻
 
-<!--
-**musey2020/musey2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/- musey2030@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:musey2030@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/- kamil-huseynov-8b2682201?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-huseynov-8b2682201?locale=en_US "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@HUSEYNOVK?style=flat&logo=Telegram&logoColor=white)](https://t.me/HUSEYNOVK "Contact on Telegram")
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0078FF?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/kamil.huseynov.10004 "Connect on Facebook")
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am 22 years old and I am a senior PHP developer with 5 years of experience
+
+- 🔭 I’m currently working on creating packages for php
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kamil-huseynov-8b2682201)
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=musey2020&show_icons=true&theme=gotham" alt="musey2020" />

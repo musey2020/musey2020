@@ -6,7 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0078FF?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/kamil.huseynov.10004 "Connect on Facebook")
 
 
-I am 22 years old and I am a senior PHP developer with 5 years of experience
+I am 22 years old and I am a Senior PHP developer with 5 years of experience
 
 - 🔭 I’m currently working on creating packages for php
 - 💬 Ask me about anything, I am happy to help

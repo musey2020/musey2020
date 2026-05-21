@@ -8,7 +8,6 @@
 
 I am 26 years old and I am a Senior developer with 88 years of experience
 
-- 🔭 I’m currently working on creating packages for php
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kamil-huseynov-8b2682201)</div>
 

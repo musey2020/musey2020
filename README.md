@@ -6,7 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0078FF?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/kamil.huseynov.10004 "Connect on Facebook")
 
 
-I am 26 years old and I am a Senior developer with 88 years of experience
+I am 26 years old and I am a Senior Software Engineer with 8 years of experience
 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kamil-huseynov-8b2682201)</div>
